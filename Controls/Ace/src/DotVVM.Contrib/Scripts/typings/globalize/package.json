@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@types/globalize",
+        "scope": "@types",
+        "escapedName": "@types%2fglobalize",
+        "name": "@types/globalize",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\Projects\\YRP Networks\\dotvvm-contrib\\Controls\\Ace\\src\\DotVVM.Contrib"
+    ]
+  ],
+  "_from": "@types/globalize@latest",
+  "_id": "@types/globalize@0.0.30",
+  "_inCache": true,
+  "_location": "/@types/globalize",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/globalize-0.0.30.tgz_1474306545303_0.14106317819096148"
+  },
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@types/globalize",
+    "scope": "@types",
+    "escapedName": "@types%2fglobalize",
+    "name": "@types/globalize",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/globalize/-/globalize-0.0.30.tgz",
+  "_shasum": "3c3c572e80e3167b123c923b88068aa43a895277",
+  "_shrinkwrap": null,
+  "_spec": "@types/globalize",
+  "_where": "D:\\Projects\\YRP Networks\\dotvvm-contrib\\Controls\\Ace\\src\\DotVVM.Contrib",
+  "author": {
+    "name": "Grégoire Castre",
+    "email": "https://github.com/gcastre/"
+  },
+  "dependencies": {
+    "@types/cldrjs": "*"
+  },
+  "description": "TypeScript definitions for Globalize",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "3c3c572e80e3167b123c923b88068aa43a895277",
+    "tarball": "https://registry.npmjs.org/@types/globalize/-/globalize-0.0.30.tgz"
+  },
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "name": "@types/globalize",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "63a67aff41325ce275286316f4d8a9efd5e5fb94ea9e97560c24ddcdb502669a",
+  "typings": "index.d.ts",
+  "version": "0.0.30"
+}

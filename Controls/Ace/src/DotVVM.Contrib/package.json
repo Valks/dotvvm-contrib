@@ -1,0 +1,10 @@
+{
+  "name": "ace",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/ace": "0.0.35",
+    "@types/globalize": "0.0.30",
+    "@types/knockout": "^3.4.44",
+    "ace-builds": "^1.2.8"
+  }
+}

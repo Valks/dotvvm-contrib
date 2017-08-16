@@ -1,0 +1,26 @@
+{
+    "authors": "Raman But-Husaim <https://github.com/RamanBut-Husaim>, Grégoire Castre <https://github.com/gcastre/>",
+    "libraryDependencies": [],
+    "moduleDependencies": [],
+    "libraryMajorVersion": 0,
+    "libraryMinorVersion": 4,
+    "typeScriptVersion": "2.0",
+    "libraryName": "Cldr.js",
+    "typingsPackageName": "cldrjs",
+    "projectName": "https://github.com/rxaviers/cldrjs",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "master",
+    "globals": [
+        "Cldr"
+    ],
+    "declaredModules": [
+        "cldrjs",
+        "cldrjs\\cldr.js-supplemental"
+    ],
+    "files": [
+        "cldr.js-supplemental.d.ts",
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "2df79d3a20c1bbbfabd3b3988d5b065f9f1fa187a717821ab2742510ca709677"
+}
